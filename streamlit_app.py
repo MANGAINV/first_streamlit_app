@@ -4,7 +4,7 @@ streamlit.title('My parents new healthy diner')
 
 streamlit.header('BREAKFAST MENU')
 
-strealit.paragraph('Omega 3 & Blueberry Oatmeal')
-strealit.paragraph('Kale, Spinach & Rocket smoothie')
-strealit.paragraph('Hard-Boiled Free-Range Egg')
+strealit.body('Omega 3 & Blueberry Oatmeal')
+strealit.body('Kale, Spinach & Rocket smoothie')
+strealit.body('Hard-Boiled Free-Range Egg')
 
